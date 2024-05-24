@@ -1703,6 +1703,18 @@ in {
           one place. See https://github.com/glanceapp/glance for more.
         '';
       }
+
+      {
+        time = "2024-07-10T11:08:00+00:00";
+        condition = hostPlatform.isLinux;
+        message = ''
+          A new module is available: 'services.keymapper'.
+
+          Keymapper is a context-aware key remapper that allows you to redefine
+          your keyboard layout and shortcuts system-wide or per application.
+          See https://github.com/houmain/keymapper for more.
+        '';
+      }
     ];
   };
 }

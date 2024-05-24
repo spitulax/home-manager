@@ -249,6 +249,7 @@ in import nmtSrc {
     ./modules/services/hyprpaper
     ./modules/services/imapnotify
     ./modules/services/kanshi
+    ./modules/services/keymapper
     ./modules/services/lieer
     ./modules/services/mopidy
     ./modules/services/mpd

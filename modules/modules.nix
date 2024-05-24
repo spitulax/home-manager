@@ -315,6 +315,7 @@ let
     ./services/kbfs.nix
     ./services/kdeconnect.nix
     ./services/keybase.nix
+    ./services/keymapper.nix
     ./services/keynav.nix
     ./services/lieer.nix
     ./services/listenbrainz-mpd.nix
